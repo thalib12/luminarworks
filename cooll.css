@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Rampart+One&display=swap');
+div{
+    border: 1px solid salmon;
+    font-family: 'Rampart One', cursive;
+    background-color: slateblue;
+    width:50%;
+    
+}
+body{
+    background-color: slategray;
+    background-image: url(./sky.jpg);
+}

@@ -1,0 +1,36 @@
+.row{
+    
+    background-color: cadetblue;
+    width: 800px;
+    height: 500px;
+    
+    display: flex;
+    justify-content:right;
+}
+.col{
+    
+    width: 100px;
+    height: 500px;
+    
+}
+.col1{
+    background-color: rgb(196, 33, 33);
+    
+    
+    
+}
+.col2{
+    background-color: chartreuse;
+}
+.col3{
+    background-color: crimson;
+}
+.col4{
+    background-color: darkgoldenrod;
+    
+}
+.col5{
+    background-color: darkgreen;
+    
+}
+

@@ -1,0 +1,95 @@
+body{
+    background: #000;
+}
+h1{
+    text-align: center;
+    font-family: monospace;
+    color:silver
+}
+div{
+    width: 150px;
+    height: 250px;
+    
+
+}
+.a {
+    background-color: brown;
+    margin-left: 328px;
+    margin-top: 18px;
+}
+.p {
+    background-color: rgb(21, 221, 14);
+    margin-top: -1014px;
+    margin-left: 493px;
+}
+.b {
+    background-color: cadetblue;
+    margin-top: 16px;
+    margin-left: 262px;
+}
+.c {
+    background-color: chartreuse;
+    margin-top: -252px;
+    margin-left: 422px;
+}
+.d {
+    background-color: chocolate;
+    margin-top: -252px;
+    margin-left: 98px;
+}
+.e {
+    background-color: darkgreen;
+    margin-top: -252px;
+    margin-left: 581px;
+}
+.f {
+    background-color: darkorange;
+    margin-top: 10px;
+    margin-left: 24px;
+}
+.g {
+    background-color: rgb(59, 189, 8);
+    margin-top: -252px;
+    margin-left: 188px;
+}
+.h {
+    background-color: rgb(3, 122, 29);
+    margin-top: -252px;
+    margin-left: 350px;
+}
+.i {
+    background-color: rgb(9, 117, 189);
+    margin-top: -252px;
+    margin-left: 511px;
+}
+.j {
+    background-color: rgb(7, 230, 230);
+    margin-top: -252px;
+    margin-left: 672px;
+}
+.k {
+    background-color: rgb(204, 50, 71);
+    margin-top: 10px;
+    margin-left: 103px;
+}
+.l {
+    background-color: rgb(206, 241, 8);
+    margin-top: -252px;
+    margin-left: 264px;
+}
+.m {
+    background-color: rgb(14, 155, 45);
+    margin-top: -252px;
+    margin-left: 424px;
+}
+.n {
+    background-color: rgb(216, 148, 22);
+    margin-top: -252px;
+    margin-left: 583px;
+}
+.o {
+    background-color: darkorchid;
+    margin-top: -252px;
+    margin-left: 744px;
+}
+

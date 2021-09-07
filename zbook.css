@@ -1,0 +1,36 @@
+.book{
+    width: 500px;
+    height: 600px;
+    display: flex;
+    justify-content:space-evenly;
+    background-image: url(./knight.jpg);
+    
+}
+.b{
+    margin-top: 50px;
+    width: 30%;
+    height: 500px;
+    border: 1px solid black;
+    background-color: cadetblue;
+    border-radius: 5%;
+}
+.b img{
+    
+    width: 100%;
+    height: 200px;
+    border: 1px solid black;
+    border-radius: 5%;
+
+}
+button{
+    
+    width: 80px;
+    height: 30px;
+    background-color: rgb(99, 3, 3);
+    
+
+}
+.btn{
+    display: flex;
+    justify-content:space-evenly;
+}
